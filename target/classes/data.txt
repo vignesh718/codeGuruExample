@@ -1,0 +1,2 @@
+hai this vignesh 
+this is a sample program to print in java using lambda.
